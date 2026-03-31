@@ -7,7 +7,7 @@
     💻 C++ • Python • Edge Computing
     🥽 Currently building a custom AR Spatial OS from scratch
     🧠 Deep Learning • Computer Vision • Sensor Fusion
-    ☕ Fueled by coffee, math, and dodging (not) segfaults
+    ☕ Fueled by coffee, math, and (not) dodging segfaults
 </pre>
 <br>
 
